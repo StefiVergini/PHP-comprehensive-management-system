@@ -42,6 +42,26 @@ Este sistema centraliza las operaciones mediante:
 * Diferentes roles y funcionalidades según el tipo de empleado.
 
 ---
+# 🏗️ Arquitectura
+
+```mermaid
+flowchart LR
+
+Cliente --> Recepcion
+
+Recepcion --> Reparacion
+
+Reparacion --> Tecnico
+
+Tecnico --> Presupuesto
+
+Presupuesto --> Cliente
+
+Cliente --> Pago
+
+Pago --> Entrega
+```
+---
 ## 🎬 Demo Flujo de Reparación Completa
 Flujo de trabajo de reparación integral con aprobaciones automatizadas por correo electrónico y notificaciones.
 ![End-to-end repair workflow](screenshots/WorkFlowRepair-EndToEnd.gif)
