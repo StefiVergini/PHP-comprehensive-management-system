@@ -37,6 +37,27 @@ This system centralizes operations by:
 - Managing repair lifecycle from intake to completion
 - Different roles and functionalities depending on the type of employee.
 
+# 🏗️ Architecture
+
+```mermaid
+flowchart LR
+
+Customer --> Reception
+
+Reception --> Repairman
+
+Repairman --> Budget
+
+Budget --> Repair
+
+Repair --> Warranty
+
+Budget --> Customer
+
+Customer --> Pay
+
+Pay --> Delivery
+```
 ---
 ## 🎬 Full Workflow Demo
 End-to-end repair workflow with automated email approvals and notifications.
