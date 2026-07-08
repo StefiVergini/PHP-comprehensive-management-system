@@ -106,7 +106,31 @@ Formularios dinámicos para crear y actualizar registros.
 Seguimiento de eventos con alertas visuales según vencimientos.
 
 ---
+# 📚 Documentación - Ingeniería del Software
 
+Más allá de la implementación en sí, este repositorio incluye la documentación completa de ingeniería de software generada a lo largo del ciclo de vida del proyecto.
+
+La documentación abarca el análisis de negocio, la planificación del proyecto, los requisitos de software, la gestión del proyecto y la documentación para el usuario, reflejando un proceso de desarrollo estructurado basado en las mejores prácticas de ingeniería de software.
+
+| Documento | Descripción|
+|----------|-------------|
+| 📄 [Estudio de Factibilidad](docs/feasibility-study/Estudio_de_Factibilidad.pdf) | Estudio de Factibilidad Empresarial  y Técnicas|
+| 📄 [Especificación de Requerimientos del Software (ERS)](docs/ers/ERS-EL_REPARADOR_SRL.pdf) | Requerimientos Funcionales |
+| 📄 [Gestión del Proyecto](docs/project-management/Gestion_del_Proyecto.pdf) |Alcance, Dict. EDT, Cronograma, Planes: Costos - Riesgos - Gestión de Calidad - Comunicaciones - RRHH|
+| 📄 [Manual de Usuario](docs/user-manual/Manual_de_usuario-El_Reparador_SRL.pdf) |Guía completa para usuarios finales|
+| 🗄️ [Diagrama ERR Base de Datos](docs/database/ERR_El_Reparador.pdf) |Base de Datos Relacional|
+
+Estructura de la Documentación:
+
+```text
+documentation/
+├── feasibility-study/
+├── ers/
+├── project-management/
+├── user-manual/
+└── database/
+```
+--- 
 ## 🚀 Funcionalidades
 
 * Arquitectura modular organizada por dominios de negocio

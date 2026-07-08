@@ -110,11 +110,11 @@ The documentation covers business analysis, project planning, software requireme
 
 | Document | Description |
 |----------|-------------|
-| 📄 [Feasibility Study](documentation/feasibility-study/Estudio_de_Factibilidad.pdf) | Business and technical feasibility analysis |
-| 📄 [Software Requirements Specification (SRS)](documentation/ers/ERS.pdf) | Functional requirements |
-| 📄 [Project Management](documentation/project-management/Gestion_del_Proyecto.pdf) |Scope, WBS, schedule, costs, risks, quality, communications and human resources planning |
-| 📄 [User Manual](documentation/user-manual/Manual_de_Usuario.pdf) | Complete guide for end users |
-| 🗄️ [Database EER Diagram](documentation/database/Database_EER_Diagram.pdf) | Final relational database design |
+| 📄 [Feasibility Study](docs/feasibility-study/Estudio_de_Factibilidad.pdf) | Business and technical feasibility analysis |
+| 📄 [Software Requirements Specification (SRS)](docs/ers/ERS-EL_REPARADOR_SRL.pdf) | Functional requirements |
+| 📄 [Project Management](docs/project-management/Gestion_del_Proyecto.pdf) |Scope, WBS, schedule, costs, risks, quality, communications and human resources planning |
+| 📄 [User Manual](docs/user-manual/Manual_de_usuario-El_Reparador_SRL.pdf) | Complete guide for end users |
+| 🗄️ [Database EER Diagram](docs/database/ERR_El_Reparador.pdf) | Final relational database design |
 
 Documentation structure:
 
