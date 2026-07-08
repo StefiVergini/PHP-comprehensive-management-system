@@ -100,7 +100,33 @@ Dynamic forms for creating and updating records.
 Event tracking with visual alerts based on deadlines.
 
 ---
+```markdown
+# 📚 Software Engineering Documentation
 
+Beyond the implementation itself, this repository includes the complete software engineering documentation produced throughout the project lifecycle.
+
+The documentation covers business analysis, project planning, software requirements, project management and user documentation, reflecting a structured development process based on software engineering best practices.
+
+
+| Document | Description |
+|----------|-------------|
+| 📄 [Feasibility Study](documentation/feasibility-study/Estudio_de_Factibilidad.pdf) | Business and technical feasibility analysis |
+| 📄 [Software Requirements Specification (SRS)](documentation/ers/ERS.pdf) | Functional requirements |
+| 📄 [Project Management](documentation/project-management/Gestion_del_Proyecto.pdf) |Scope, WBS, schedule, costs, risks, quality, communications and human resources planning |
+| 📄 [User Manual](documentation/user-manual/Manual_de_Usuario.pdf) | Complete guide for end users |
+| 🗄️ [Database EER Diagram](documentation/database/Database_EER_Diagram.pdf) | Final relational database design |
+
+Documentation structure:
+
+```text
+documentation/
+├── feasibility-study/
+├── ers/
+├── project-management/
+├── user-manual/
+└── database/
+
+--- 
 
 ## 🚀 Features
 
